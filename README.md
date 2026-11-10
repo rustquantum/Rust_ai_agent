@@ -1,4 +1,4 @@
-# Meta_Hackathon_muse_ai_agent
+# Rust_ai_agent
 
 A lightweight, high-performance Rust applications built to solve llm ai integration in database administion.
 This workspace code base of two application writing in pure Rust.
