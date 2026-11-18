@@ -22,7 +22,7 @@ This workspace code base of two application writing in pure Rust.
 1. Clone the repository:
    ```bash
    git clone repository
-   cd <mcp_server or meta-ai-agent> 
+   cd <mcp_server or ai-agent> 
    ```
 
 2. Install Rust:
@@ -48,7 +48,7 @@ This workspace code base of two application writing in pure Rust.
 Execute the binary from your project directory:
 
 ```bash
-./target/release/meta-ai-agent
+./target/release/ai-agent
 ```
 
 Or run it in a terminal (note: this is a demo, ensure it has a `main.rs` entry point):
